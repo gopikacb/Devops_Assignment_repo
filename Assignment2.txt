@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 second change in production
+=======
+3rd change in development
+>>>>>>> development
+3rd change in development
